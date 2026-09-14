@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "학교 PC 검증 완료: 일반 기안 임시저장·지출품의(품의결재기 저장) 자동 입력"
+  "notes": "설정 > 에듀파인 연동에 [에듀파인 Edge 열기] 버튼과 연결 상태 표시 — 자동 입력용 Edge 를 앱에서 바로 엽니다"
 }
