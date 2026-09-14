@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "근거 공문 본문 읽기: 관련성 높은 근거 공문의 본문을 읽어 그 내용(일시·장소·요구사항)대로 초안 작성 — 설정에서 물어보기/자동/끄기"
+  "notes": "근거 검색 중 창 최소화 복구"
 }
