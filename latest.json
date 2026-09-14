@@ -1,5 +1,5 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "설치 뒤에도 구버전 화면이 그대로 보이던 문제 수정(새 버전이 시작하면서 떠 있는 구버전을 내림)"
+  "notes": "설치본에서 에듀파인 연동(Edge 열기·결재선·예산·근거·기안문 동기화·임시저장·품의)이 '필요한 패키지가 없습니다(playwright)' 로 막히던 문제 수정 — 필요한 구성요소를 배포본에 포함(용량 +25MB)"
 }
