@@ -1,5 +1,5 @@
 {
-  "version": "0.6.4",
+  "version": "0.6.5",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "근거 목록·내 기안문 동기화가 뒤에서 자동으로 돕니다: 에듀파인 Edge 에 로그인되면 최근 1개월분을 자동 동기화(문서 창을 숨긴 채 처리), [일시정지]/[계속]/[중단] 버튼, 진행 상황 표시"
+  "notes": "근거를 찾는 동안 에듀파인 Edge 창을 잠시 최소화했다가 되돌립니다(작업 중인 화면을 가리지 않게)"
 }
