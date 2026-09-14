@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "v1.0.0 — 근거공문 선택·본문 보기·여러 건 반영, 결재선 추천 드롭다운, 품의 예산 자동 추천·[예산 고르기] 시트, 근거 본문 '체크한 것만 읽기' 옵션"
+  "notes": "v1.0.1 — 받은 공문에서 기안 시작, 지난 기안 바탕으로 새로 쓰기, 공문 어법 점검, 붙임 파일(학교 확인 필요), 예산 잔액 보기, 문제 신고 파일 만들기"
 }
