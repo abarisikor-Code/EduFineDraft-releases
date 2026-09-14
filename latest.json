@@ -1,5 +1,5 @@
 {
-  "version": "0.9.2",
+  "version": "0.9.3",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "읽어주세요.txt 를 현재 기능(최초 동기화·안내창·프로필·백업·근거 본문) 기준으로 갱신"
+  "notes": "개인정보 보호: 첨부 문서·근거 공문 본문·참고 기안문·쪽지에서 주민번호·전화·이메일·계좌·생년월일·주소·이름·명단 표를 이 PC 에서 가린 뒤 전송(PDF 는 텍스트만). [보낼 내용 미리보기]로 확인"
 }
