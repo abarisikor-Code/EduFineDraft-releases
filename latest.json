@@ -1,5 +1,5 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "설치본에서 에듀파인 연동(Edge 열기·결재선·예산·근거·기안문 동기화·임시저장·품의)이 '필요한 패키지가 없습니다(playwright)' 로 막히던 문제 수정 — 필요한 구성요소를 배포본에 포함(용량 +25MB)"
+  "notes": "근거 목록·내 기안문 동기화가 뒤에서 자동으로 돕니다: 에듀파인 Edge 에 로그인되면 최근 1개월분을 자동 동기화(문서 창을 숨긴 채 처리), [일시정지]/[계속]/[중단] 버튼, 진행 상황 표시"
 }
