@@ -1,5 +1,5 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "설정 > 에듀파인 연동에 [에듀파인 Edge 열기] 버튼과 연결 상태 표시 — 자동 입력용 Edge 를 앱에서 바로 엽니다"
+  "notes": "설치 뒤에도 구버전 화면이 그대로 보이던 문제 수정(새 버전이 시작하면서 떠 있는 구버전을 내림)"
 }
