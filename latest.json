@@ -1,5 +1,5 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "품의 탭 안내 문구와 전송 결과(품의번호·품의목록 안내) 정리"
+  "notes": "예산 목록 동기화가 가끔 실패하던 문제(첫 화면 열기 직후) 수정"
 }
