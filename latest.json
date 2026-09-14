@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "에듀파인 작업 중 화면 오른쪽 위에 안내창(작업 중에는 에듀파인 창을 닫지 마세요) → 끝나면 결과와 [확인]"
+  "notes": "프로필: 한 컴퓨터를 여러 선생님이 쓸 때 사람마다 설정·근거·기안문 분리(헤더 이름 클릭 → 전환/새 프로필). 에듀파인에 다른 사람이 로그인돼 있으면 프로필 전환을 물어봄"
 }
