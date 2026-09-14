@@ -1,5 +1,5 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "개인정보 보호: 첨부 문서·근거 공문 본문·참고 기안문·쪽지에서 주민번호·전화·이메일·계좌·생년월일·주소·이름·명단 표를 이 PC 에서 가린 뒤 전송(PDF 는 텍스트만). [보낼 내용 미리보기]로 확인"
+  "notes": "업데이트 뒤 설정·초안이 비어 보이던 문제: 설정이 있는 프로필로 자동 복구 + 진단 로그"
 }
