@@ -1,5 +1,5 @@
 {
-  "version": "0.6.7",
+  "version": "0.7.0",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "예산 목록 동기화가 가끔 실패하던 문제(첫 화면 열기 직후) 수정"
+  "notes": "에듀파인 작업 중 화면 오른쪽 위에 안내창(작업 중에는 에듀파인 창을 닫지 마세요) → 끝나면 결과와 [확인]"
 }
