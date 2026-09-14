@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "프로필: 한 컴퓨터를 여러 선생님이 쓸 때 사람마다 설정·근거·기안문 분리(헤더 이름 클릭 → 전환/새 프로필). 에듀파인에 다른 사람이 로그인돼 있으면 프로필 전환을 물어봄"
+  "notes": "프로필 이전 안정화(깨진 이름 방지, 남은 파일 거두기)"
 }
