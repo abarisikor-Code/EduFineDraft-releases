@@ -1,5 +1,5 @@
 {
-  "version": "0.9.6",
+  "version": "1.0.0",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "빈 프로필 자동 복구 범위 확대"
+  "notes": "v1.0.0 — 근거공문 선택·본문 보기·여러 건 반영, 결재선 추천 드롭다운, 품의 예산 자동 추천·[예산 고르기] 시트, 근거 본문 '체크한 것만 읽기' 옵션"
 }
