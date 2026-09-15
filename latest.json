@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "임시저장 본문이 비어 저장되던 문제 수정 — 배경 작업 중 기안기 창을 최소화하지 않고 화면 밖으로 옮김, 본문이 들어갔는지 확인 뒤 저장"
+  "notes": "품의 탭: [AI 추천]을 누르면 찾는 중임을 버튼 색·문구로 표시"
 }
