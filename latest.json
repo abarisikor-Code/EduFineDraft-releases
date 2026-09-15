@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "최초 동기화: 내 기안문은 최신 15건만(한 건 6~8초라 3개월 전체는 오래 걸림 — 나머지는 설정의 [내 기안문 가져오기]로), 안내창에 진행률·남은 시간 표시, 내려받기 대기 시간 단축"
+  "notes": "🎤 말로 적기: 공문·품의 개요 칸과 쪽지 칸에서 버튼을 누르고 말한 뒤 다시 누르면 글로 들어갑니다(Gemini 받아쓰기, 최대 60초)"
 }
