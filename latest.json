@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "사용 허가서(LICENSE.txt) 추가 — 비공개 소프트웨어, 교직원 업무용 무료. 설치 마법사에서 동의, 설정 > 관리 [사용 허가서]"
+  "notes": "📌 자주 쓰는 근거: 근거 후보의 📌 로 고정하거나, [📌 자주 쓰는 근거]에서 에듀파인 PC저장 ODT·PDF(문서번호·날짜 자동 읽기, 본문 보관)나 직접 입력으로 추가 — 동기화 기간(3개월) 밖의 오래된 공문도 근거 찾기에 항상 나옵니다"
 }
