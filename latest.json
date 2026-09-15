@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "🎤 말로 적기: 공문·품의 개요 칸과 쪽지 칸에서 버튼을 누르고 말한 뒤 다시 누르면 글로 들어갑니다(Gemini 받아쓰기, 최대 60초)"
+  "notes": "사용 허가서(LICENSE.txt) 추가 — 비공개 소프트웨어, 교직원 업무용 무료. 설치 마법사에서 동의, 설정 > 관리 [사용 허가서]"
 }
