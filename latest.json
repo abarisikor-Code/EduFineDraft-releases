@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "v1.2.0 — [키 자동으로 받기]: Google 로그인만 하면 AI Studio 의 API 키를 찾아 자동 등록(기존 키는 완전 자동, 새 키는 세 번 클릭만 직접). 기본 브라우저와 무관하게 전용 Edge 사용"
+  "notes": "v1.2.1 — [키 자동으로 받기] 3단계 표시(로그인 → API 키 만들기 → 키 만들기, 빨간 불이 초록으로), 새 키는 세부정보 창을 읽어 자동 등록; 시작 시 가끔 '응답 없음' 원인(마이크 권한 훅 스레드) 수정"
 }
