@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "Edge 의 'WXSClient 응용 프로그램을 열려고 합니다' 확인창을 프로그램이 대신 [열기]('항상 허용' 체크) — 이 창 때문에 기안기가 안 떠 동기화·전송이 느려지거나 실패하던 것"
+  "notes": "어법 점검에 [고치기] 추가 — 날짜·요일·금액 쉼표·항목 번호·'끝.' 표기를 눌러서 바로 수정(여러 곳이면 [모두 고치기])"
 }
