@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "어법 점검에 [고치기] 추가 — 날짜·요일·금액 쉼표·항목 번호·'끝.' 표기를 눌러서 바로 수정(여러 곳이면 [모두 고치기])"
+  "notes": "에듀파인으로 전송한 뒤 기안기·품의결재기 창이 맨 앞으로 옵니다 — 창이 뒤에 숨거나 최소화된 채 남지 않습니다"
 }
