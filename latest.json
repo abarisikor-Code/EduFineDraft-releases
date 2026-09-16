@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "동기화 중 문서 창이 깜빡이던 것 — 창이 만들어지는 순간 숨기도록 바꿔 거의 보이지 않습니다"
+  "notes": "Edge 의 'WXSClient 응용 프로그램을 열려고 합니다' 확인창을 프로그램이 대신 [열기]('항상 허용' 체크) — 이 창 때문에 기안기가 안 떠 동기화·전송이 느려지거나 실패하던 것"
 }
