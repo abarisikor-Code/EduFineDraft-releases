@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "최초 동기화 [확인] 뒤 에듀파인 탭이 없으면 자동으로 열어 줍니다(버튼을 따로 누르지 않아도 됨)"
+  "notes": "API 키 자동으로 받기: '프로젝트 만들기' 단계를 따로 표시 — 프로젝트가 없는 계정이면 그 단계에 불이 켜지고(영문 이름 안내), 이미 있으면 저절로 건너뜁니다"
 }
