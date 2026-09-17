@@ -1,5 +1,5 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "본문 받는 동안 에듀파인 창이 화면에 나오던 것 수정"
+  "notes": "외부 발송 기안 — 내부결재/외부로 발송 스위치, 발신기관 문서번호 근거 표기, 수신처 자동완성"
 }
