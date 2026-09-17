@@ -1,5 +1,5 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "결재대기 공문도 본문까지 미리 받아 둡니다(문서등록대장 경유)"
+  "notes": "본문 받는 동안 에듀파인 창이 화면에 나오던 것 수정"
 }
