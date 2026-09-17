@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "에듀파인으로 전송한 뒤 기안기·품의결재기 창이 맨 앞으로 옵니다 — 창이 뒤에 숨거나 최소화된 채 남지 않습니다"
+  "notes": "품의: 품목표에서 수량·단가를 고치면 본문의 품목 줄과 합계가 자동으로 따라옵니다 — 본문을 직접 고친 경우에는 덮어쓰지 않고 [본문에 반영] 에 표시만 합니다"
 }
