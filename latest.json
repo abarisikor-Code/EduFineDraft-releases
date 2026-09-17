@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "외부 발송 기안 — 내부결재/외부로 발송 스위치, 발신기관 문서번호 근거 표기, 수신처 자동완성"
+  "notes": "외부 발송 수신자지정 — 수신처 자동완성, 조직도 검색·확정, 전송할 때 수신자 자동 입력"
 }
