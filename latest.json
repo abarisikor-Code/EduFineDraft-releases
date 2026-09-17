@@ -1,5 +1,5 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "설정 > 관리 > [바탕화면에 바로가기 만들기] 를 누르면 오류가 나던 것을 고쳤습니다(v1.4.4 에서 생긴 문제)"
+  "notes": "결재대기 공문도 근거로 쓸 수 있습니다 — 아직 결재 전이라 접수함에 없는 공문이 [받은 공문에서 시작] 맨 위에 ⏳ 표시로 나옵니다(제목·번호·날짜 인용까지, 본문은 결재 뒤에)"
 }
