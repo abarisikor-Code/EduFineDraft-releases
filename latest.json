@@ -1,5 +1,5 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "품의: 품목표에서 수량·단가를 고치면 본문의 품목 줄과 합계가 자동으로 따라옵니다 — 본문을 직접 고친 경우에는 덮어쓰지 않고 [본문에 반영] 에 표시만 합니다"
+  "notes": "설정 > 관리 > [바탕화면에 바로가기 만들기] 를 누르면 오류가 나던 것을 고쳤습니다(v1.4.4 에서 생긴 문제)"
 }
