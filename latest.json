@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "문서등록대장에서도 근거 찾기, 새 버전 알림에 바뀐 점 표시"
+  "notes": "수신처 확인이 안 되던 것 수정, 근거 공문 목록 보기 쉽게"
 }
