@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "외부 발송 수신자지정 — 수신처 자동완성, 조직도 검색·확정, 전송할 때 수신자 자동 입력"
+  "notes": "수신처 찾기 안정화와 도교육청 부서까지, 확인한 수신처 기억, 자주 쓰는 품의 저장, 각 탭 [새로 작성], 작업 중 [×] 로 그만두기, 첫 설치·동기화 안정화"
 }
