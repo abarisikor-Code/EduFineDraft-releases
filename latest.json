@@ -1,5 +1,5 @@
 {
-  "version": "1.6.5",
+  "version": "1.6.6",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "문서등록대장 검색 낱말 직접 입력, 0건 뒤 검색이 안 되던 것 수정, 확정한 수신처 초록 표시"
+  "notes": "근거 상자 두 칸으로 나눔, 초안 만들기 버튼 늘 보이게, 수신처 쉼표로 여러 곳, 수신처 찾기 중단 문구 수정, 결재대기 변경 없음 표시, 받은 공문에서 시작 두 줄 버튼, 자주 쓰는 품의 등록 버튼 위로"
 }
