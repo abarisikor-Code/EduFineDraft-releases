@@ -1,5 +1,5 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.5",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "수신처 확인이 안 되던 것 수정, 근거 공문 목록 보기 쉽게"
+  "notes": "문서등록대장 검색 낱말 직접 입력, 0건 뒤 검색이 안 되던 것 수정, 확정한 수신처 초록 표시"
 }
