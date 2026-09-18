@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "내가 기안한 문서로 시작(계획 → 결과 보고처럼 이어 쓰기), 행정기관 수신처(시청·경찰서 등), 자주 쓰는 품의에 관련근거도 저장, 에듀파인 화면이 멈추던 것 몇 가지 수정"
+  "notes": "문서등록대장에서도 근거 찾기, 새 버전 알림에 바뀐 점 표시"
 }
