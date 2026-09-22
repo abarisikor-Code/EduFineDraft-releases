@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "본문 보기를 닫으면 왔던 목록으로, 에듀파인 스크립트 오류창에 멈추던 것 수정"
+  "notes": "설정의 에듀파인 주소 칸이 좁아 안내가 잘리던 것 수정"
 }
