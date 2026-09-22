@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "문서 결재 탭(과제카드 묶기·요약), 근거 찾기 3배 빠르게, 본문 받기 안정화, 설정·목록 화면 정리"
+  "notes": "본문 보기를 닫으면 왔던 목록으로, 에듀파인 스크립트 오류창에 멈추던 것 수정"
 }
