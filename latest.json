@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
+  "version": "1.8.0",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "내가 기안한 문서의 본문이 바로 열립니다, 이미 받아 둔 기안문을 다시 내려받지 않음"
+  "notes": "근거 공문 본문 대조, 표 칸 밀림 수정, 결재정보 제목칸, 붙임 파일 받기, API 키 오류 안내"
 }
