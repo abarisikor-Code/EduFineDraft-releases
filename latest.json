@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.2",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "근거 공문 본문 대조, 표 칸 밀림 수정, 결재정보 제목칸, 붙임 파일 받기, API 키 오류 안내"
+  "notes": "표 편집 창, 엑셀 첨부, 과제카드 직접 고르기·자주 쓰는 과제카드"
 }
