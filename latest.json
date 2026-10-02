@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "url": "https://github.com/abarisikor-Code/EduFineDraft-releases/releases/latest",
-  "notes": "표 편집 창, 엑셀 첨부, 과제카드 직접 고르기·자주 쓰는 과제카드"
+  "notes": "공지 창 자동 닫기, 줄여 쓴 학교 이름으로 외부 발송, 초안에 수신처 저장"
 }
